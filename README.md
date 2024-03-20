@@ -13,48 +13,48 @@ Perform the necessary calculations and then create a high-level snapshot of the 
 
 Include the following:
 
-Total number of unique schools
+- Total number of unique schools
 
-Total students
+- Total students
 
-Total budget
+- Total budget
 
-Average maths score
+- Average maths score
 
-Average reading score
+- Average reading score
 
-% passing maths (the percentage of students who passed maths)
+- % passing maths (the percentage of students who passed maths)
 
-% passing reading (the percentage of students who passed reading)
+- % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed maths AND reading)
+- % overall passing (the percentage of students who passed maths AND reading)
 
 Note: A passing grade is 50 or higher.
 
-School Summary
+**School Summary**
 Perform the necessary calculations and then create a DataFrame that summarises key metrics about each school.
 
 Include the following:
 
-School name
+- School name
 
-School type
+- School type
 
-Total students
+- Total students
 
-Total school budget
+- Total school budget
 
-Per student budget
+- Per student budget
 
-Average maths score
+- Average maths score
 
-Average reading score
+- Average reading score
 
-% passing maths (the percentage of students who passed maths)
+- % passing maths (the percentage of students who passed maths)
 
-% passing reading (the percentage of students who passed reading)
+- % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed maths AND reading)
+- % overall passing (the percentage of students who passed maths AND reading)
 
 - **Highest-Performing Schools (by % Overall Passing)**
 - **Lowest-Performing Schools (by % Overall Passing)**
