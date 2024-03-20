@@ -56,10 +56,10 @@ Average reading score
 
 % overall passing (the percentage of students who passed maths AND reading)
 
-**Highest-Performing Schools (by % Overall Passing)**
-**Lowest-Performing Schools (by % Overall Passing)**
-**Maths Scores by Year**
-**Reading Scores by Year**
-**Scores by School Spending**
-**Scores by School Size**
-**Scores by School Type**
+- **Highest-Performing Schools (by % Overall Passing)**
+- **Lowest-Performing Schools (by % Overall Passing)**
+- **Maths Scores by Year**
+- **Reading Scores by Year**
+- **Scores by School Spending**
+- **Scores by School Size**
+- **Scores by School Type**
