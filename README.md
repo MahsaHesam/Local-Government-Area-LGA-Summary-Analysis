@@ -1,5 +1,6 @@
 # pandas-challenge
-![Uploading download.png…]()
+
+![download](https://github.com/MahsaHesam/pandas-challenge/assets/70048005/4c0145e5-3105-4397-82b7-9d8d07790398)
 
 **Background**
 You are the new Chief Data Scientist for your local government area. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
